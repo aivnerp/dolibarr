@@ -1,0 +1,35 @@
+{
+    "name": "iERP",
+    "icons": [
+        {
+            "src": "https://mng.aivnerp.com:8443/logo_i512x512.png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "https://mng.aivnerp.com:8443/logo_i256x256.png",
+            "sizes": "256x256"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "start_url": "/index.php",
+    "url": "https://mng.aivnerp.com:8443/",
+    "lang": "English",
+    "screenshots": [
+        {
+            "src": "https://mng.aivnerp.com:8443/iss_1280x800.png",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "https://mng.aivnerp.com:8443/iss_750x1334.png",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ],
+    "short_name": "iERP",
+    "description": "i-NES ERP management",
+    "scope": "/",
+    "orientation": "any"
+}
